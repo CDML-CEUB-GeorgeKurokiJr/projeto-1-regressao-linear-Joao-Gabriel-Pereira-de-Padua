@@ -32,3 +32,4 @@ O projeto comprovou de forma prática o **limite geométrico da Regressão Linea
 A fronteira de decisão (uma linha reta/hiperplano) é insuficiente para separar classes complexas e intrincadas como as de fraude financeira. Apesar de técnicas avançadas de engenharia de dados (PCA) e balanceamento (SMOTE), a rigidez espacial do algoritmo linear inevitavelmente sacrifica transações legítimas (Falsos Positivos) ao tentar capturar anomalias. 
 
 Para produção, o estudo recomenda a transição empírica para modelos baseados em probabilidade não-linear (Regressão Logística) ou árvores de decisão.
+Link para base de dados: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
